@@ -1,4 +1,3 @@
-primeiros testes em JavaScript
+Primeiros programas e testes em JavaScript.
 
-alteração do README, versão 2
-linha retirada"# testeJS" 
+Aprendizado através de vídeos, cursos e faculdade, além de muito treino
